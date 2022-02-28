@@ -1,21 +1,21 @@
-# Rat-python
-Telegram controlled warrior
+#Stiller.py
+
+Stiller on python, with sending to telegrams 
 
 Version 2.0
-🥷Стиллер
-Новая версия добавил браузеры Opera и Yandex.
+🥷Stiller
 
-ЯП: Python
+SP: Python
 Cookie ✅
-Сохранённые пароли ✅
-История браузера ✅
-Фотка с вебки ✅
-Данные о пк ✅
-IP адрес✅
-Скриншот✅
+Saved passwords ✅
+Browser history ✅
+Photo from the webcam ✅
+PC data ✅
+IP address✅
+Screenshot✅
 
-Перед использованием вбейте в консоль это:
-
+Before using, type this into the console:
+--
 pip install pyinstaller
 --
 pip install requests
